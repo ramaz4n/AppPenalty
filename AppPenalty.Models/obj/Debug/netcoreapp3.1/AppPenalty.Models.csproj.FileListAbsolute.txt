@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Models\bin\Debug\netcoreapp3.1\AppPenalty.Models.deps.json
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Models\bin\Debug\netcoreapp3.1\AppPenalty.Models.dll
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Models\bin\Debug\netcoreapp3.1\AppPenalty.Models.pdb
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Models\obj\Debug\netcoreapp3.1\AppPenalty.Models.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Models\obj\Debug\netcoreapp3.1\AppPenalty.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Models\obj\Debug\netcoreapp3.1\AppPenalty.Models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Models\obj\Debug\netcoreapp3.1\AppPenalty.Models.AssemblyInfo.cs
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Models\obj\Debug\netcoreapp3.1\AppPenalty.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Models\obj\Debug\netcoreapp3.1\AppPenalty.Models.dll
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Models\obj\Debug\netcoreapp3.1\AppPenalty.Models.pdb

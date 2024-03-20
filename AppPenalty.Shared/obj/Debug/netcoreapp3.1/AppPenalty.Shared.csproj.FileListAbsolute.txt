@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\obj\Debug\netcoreapp3.1\AppPenalty.Shared.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\obj\Debug\netcoreapp3.1\AppPenalty.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\obj\Debug\netcoreapp3.1\AppPenalty.Shared.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\obj\Debug\netcoreapp3.1\AppPenalty.Shared.AssemblyInfo.cs
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\obj\Debug\netcoreapp3.1\AppPenalty.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\bin\Debug\netcoreapp3.1\AppPenalty.Shared.deps.json
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\bin\Debug\netcoreapp3.1\AppPenalty.Shared.dll
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\bin\Debug\netcoreapp3.1\AppPenalty.Shared.pdb
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\obj\Debug\netcoreapp3.1\AppPenalty.Shared.dll
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\obj\Debug\netcoreapp3.1\AppPenalty.Shared.pdb
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\bin\Debug\netcoreapp3.1\AppPenalty.Models.dll
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\bin\Debug\netcoreapp3.1\AppPenalty.Models.pdb
+C:\Users\user\Desktop\sharp\AppPenalty\AppPenalty.Shared\obj\Debug\netcoreapp3.1\AppPenalty.Shared.csproj.CopyComplete
